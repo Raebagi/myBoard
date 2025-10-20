@@ -6,5 +6,5 @@
 
 📘 [ERD]
 
-![{D77241B8-6293-4434-83A8-9F7E1F592426}.png](attachment:e19fb10c-d8ba-4e43-ae8d-c976cb2f5bc5:D77241B8-6293-4434-83A8-9F7E1F592426.png)
+<img width="749" height="577" alt="Image" src="https://github.com/user-attachments/assets/652faa69-fd15-436d-a0c8-790312c28fad" />
 
